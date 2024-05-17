@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FireBook
+  - ZapBook
+  - CheeseBook
+  - SpookyBook
+  - SwordBook
   layers:
   - Default
   - TransparentFX
